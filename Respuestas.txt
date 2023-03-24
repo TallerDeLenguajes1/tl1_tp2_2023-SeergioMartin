@@ -1,0 +1,11 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+
+No puedo ver el archivo solo aparece su ejecutable, esto puede ser porque realice el cambio de la rama.
+
+¿Qué diferencias nota?
+
+Noté que el nuevo commit que hice se puso sobre lo anterior, dejando de lado las cosas hechas en Opcion_2.
+
+Despues de haber hecho el merge ¿Qué nota?
+
+Veo que las cosas trabajadas en ambas ramas se combinaron y ahora aparecen todos los archivos trabajados en ambas partes.
